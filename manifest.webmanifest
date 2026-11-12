@@ -1,0 +1,13 @@
+{
+  "name": "Tekadu Registration System",
+  "short_name": "Tekadu Reg",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f1ea",
+  "theme_color": "#2e5d4b",
+  "icons": [
+    { "src": "favicon-32.png", "sizes": "32x32", "type": "image/png", "purpose": "any" },
+    { "src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png", "purpose": "any" }
+  ]
+}
